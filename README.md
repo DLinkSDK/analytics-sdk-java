@@ -44,6 +44,6 @@ Step 4: Use the SDK
     Long signTime = 0L;
     String appVersion = "1.0";
     String eventsSign = "";
-    boolean valid = analytics.valid(signSdkVersion, clientBody, clientTime, clientVersion, clientSign);
+    boolean valid = analytics.valid(signSdkVersion, eventsJson, signTime, appVersion, eventsSign);
 
 ```
