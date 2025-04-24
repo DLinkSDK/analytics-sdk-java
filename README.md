@@ -24,7 +24,7 @@ Step 2: Get the SDK
 <dependency>
   <groupId>dev.deeplink</groupId>
   <artifactId>analytics-sdk-java</artifactId>
-  <version>1.4.5</version>
+  <version>1.4.7</version>
 </dependency>
 
 ```
